@@ -1,2 +1,3 @@
 It is a red planet.
-But is is very rocky.
+But it is very rocky.
+And it has some water!
